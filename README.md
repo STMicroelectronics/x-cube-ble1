@@ -23,8 +23,8 @@ The figure below shows the overall architecture.
 
 **Related information and documentation**:
 
-- [UM1873](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-BLE1.html): Getting started with the X-CUBE-BLE1 Bluetooth Low Energy software expansion for STM32Cube
-- [AN4642](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-BLE1.html): Overview of the BLE Profiles application for X-CUBE-BLE1, expansion for STM32Cube
+- [UM1873](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-ble1.html#documentation): Getting started with the X-CUBE-BLE1 Bluetooth Low Energy software expansion for STM32Cube
+- [AN4642](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-ble1.html#documentation): Overview of the BLE Profiles application for X-CUBE-BLE1, expansion for STM32Cube
 - [STM32Cube](http://www.st.com/stm32cube)
 - [STM32 Nucleo boards](http://www.st.com/stm32nucleo)
 - [STM32 Nucleo expansion boards](http://www.st.com/x-nucleo)
