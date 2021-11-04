@@ -15,7 +15,7 @@ The X-CUBE-BLE1 is an expansion software package for STM32Cube. This software pr
 
 The figure below shows the overall architecture.
 
-[![X-CUBE-BLE1 Block Diagram](_htmresc/X-CUBE-BLE1_BlockDiagram_2020.png)]()
+[![X-CUBE-BLE1 Block Diagram](_htmresc/X-CUBE-BLE1_components_2020.png)]()
 
 - At the bottom layer there are the HW components: the STM32 MCU and the BlueNRG-M0 network processor.
 - The drivers abstract low level details of the hardware and allow the middleware software to provide Bluetooth LE features in a hardware independent fashion.
