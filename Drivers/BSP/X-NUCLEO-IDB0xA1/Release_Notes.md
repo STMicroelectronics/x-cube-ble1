@@ -14,13 +14,6 @@ Copyright &copy; 2021 STMicroelectronics\
 [![ST logo](../../../_htmresc/st_logo_2020.png)](https://www.st.com){.logo}
 </center>
 
-# License
-
-This software package is
-licensed by ST under ST license SLA0077, the "License"; You may not use this component except in compliance
-with the License. You may obtain a copy of the License at:
-[http://www.st.com/SLA0077](http://www.st.com/content/st_com/en/search.html#q=SLA0077-t=keywords-page=1)
-
 # Purpose
 
 The <mark>X-NUCLEO-IDB0xA1 BSP</mark> (Board Specific Package) drivers are parts of the X-CUBE package and provide a set of high level APIs relative to the hardware components and features in the expansion boards.<br>

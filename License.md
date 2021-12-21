@@ -1,11 +1,11 @@
-| Component                               | License                 | Copyright |
-|:---------                               |:-------                 |:----------|
-| Cortex-M CMSIS                          | Apache License 2.0      | ARM Limited |
-| STM32L4xx CMSIS                         | Apache License 2.0      | ARM Limited - STMicroelectronics |
-| STM32L4xx HAL/LL Drivers                | BSD 3-Clause            | STMicroelectronics |
-| STM32L4xx-NUCLEO BSP                    | BSD 3-Clause            | STMicroelectronics |
-| X-NUCLEO-IDB0xA1 BSP                    | SLA0077                 | STMicroelectronics |
-| BlueNRG-MS Middleware                   | SLA0077                 | STMicroelectronics |
-| LowPowerManager Middleware              | SLA0077                 | STMicroelectronics |
-| TimerServer Middleware                  | SLA0077                 | STMicroelectronics |
-| NUCLEO-L476RG Application Projects      | SLA0077                 | STMicroelectronics |
+| Component                               | Copyright                          | License |
+|:---------                               |:-------                            |:--------|
+| Cortex-M CMSIS                          | ARM Limited                        | Apache License 2.0 |
+| STM32L4xx CMSIS                         | ARM Limited - STMicroelectronics   | Apache License 2.0 |
+| STM32L4xx HAL/LL Drivers                | STMicroelectronics                 | BSD 3-Clause |
+| STM32L4xx-NUCLEO BSP                    | STMicroelectronics                 | BSD 3-Clause |
+| X-NUCLEO-IDB0xA1 BSP                    | STMicroelectronics                 | BSD 3-Clause |
+| BlueNRG-MS Middleware                   | STMicroelectronics                 | SLA0077 |
+| LowPowerManager Middleware              | STMicroelectronics                 | SLA0077 |
+| TimerServer Middleware                  | STMicroelectronics                 | SLA0077 |
+| NUCLEO-L476RG Application Projects      | STMicroelectronics                 | SLA0077 |

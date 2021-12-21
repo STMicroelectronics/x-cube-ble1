@@ -14,13 +14,6 @@ Copyright &copy; 2021 STMicroelectronics\
 [![ST logo](_htmresc/st_logo_2020.png)](https://www.st.com){.logo}
 </center>
 
-# License
-
-This software package is
-licensed by ST under ST license SLA0077, the "License"; You may not use this component except in compliance
-with the License. You may obtain a copy of the License at:
-[http://www.st.com/SLA0077](http://www.st.com/SLA0077)
-
 # Purpose
 
 The <mark>X-CUBE-BLE1</mark> is an expansion software package for STM32Cube. This software provides drivers running on STM32 for STM's BlueNRG-M0 Bluetooth Low Energy device. It also includes the software library for BLE Profiles along with many sample applications. This software package is built on top of STM32Cube software technology that ease portability across different STM32 microcontrollers. 
@@ -74,34 +67,34 @@ The X-CUBE-BLE1 expansion software package comes with a rich set of examples run
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V6.2.2                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.2                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V6.2.2                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V6.2.2                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.2                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V6.2.2                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32L4xx CMSIS                                             V1.7.1                                            [Apache License v2.0](Drivers\CMSIS\Device\ST\STM32L4xx\License.md)                                                           [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.13.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32L4xx CMSIS                                             V1.7.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.13.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.1                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V5.1.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V5.1.1                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.1                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.1                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V6.1.2                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V6.1.2                                            [release notes](Projects\Release_Notes.html)
 
 ## Known Limitations
  
@@ -145,47 +138,47 @@ The X-CUBE-BLE1 expansion software package comes with a rich set of examples run
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V6.2.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V6.2.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V6.2.1                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.1                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V6.2.1                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.6                                            [Apache License v2.0](Drivers\CMSIS\Device\ST\STM32F4xx\License.md)                                                           [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.12                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.1                                            [Apache License v2.0](Drivers\CMSIS\Device\ST\STM32L0xx\License.md)                                                           [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.4                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.7.1                                            [Apache License v2.0](Drivers\CMSIS\Device\ST\STM32L4xx\License.md)                                                           [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.13.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.6                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.12                                           [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.4                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.7.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.13.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V5.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V5.1.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V6.1.1                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V6.1.1                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Known Limitations
  
@@ -232,47 +225,47 @@ The X-CUBE-BLE1 expansion software package comes with a rich set of examples run
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V6.2.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V6.2.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V6.2.0                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.2.0                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V6.2.0                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.6                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.11                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.1                                            [Apache License v2.0](http://www.apache.org/licenses/)                                                        [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.4                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.7.1                                            [Apache License v2.0](http://www.apache.org/licenses/)                                                        [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.13.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.6                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.11                                           [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.4                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.7.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.13.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.7                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V5.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V5.1.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V6.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V6.1.0                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Known Limitations
  
@@ -319,47 +312,47 @@ The X-CUBE-BLE1 expansion software package comes with a rich set of examples run
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V6.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V6.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V6.1.0                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.1.0                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V6.1.0                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.5                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.10                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.1                                            [Apache License v2.0](http://www.apache.org/licenses/)                                                        [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.4                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.7.0                                            [Apache License v2.0](http://www.apache.org/licenses/)                                                        [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.12.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.5                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.10                                           [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.1                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.4                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.3                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.7.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.12.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V5.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V5.1.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V5.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V5.1.0                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Known Limitations
  
@@ -405,47 +398,47 @@ None
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V6.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V6.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V6.0.0                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V6.0.0                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V6.0.0                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.5                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.8                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.0                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.7.0                                            [Apache License v2.0](https://opensource.org/licenses/Apache-2.0)                                             [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.12.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.5                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.8                                            [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.0                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.7.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.12.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V5.0.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V5.0.0                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Development Toolchains and Compilers
 
@@ -482,47 +475,47 @@ Utilities
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V5.0.0                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V5.0.0                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V5.0.0                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.3                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.0                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.2                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.6.0                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.11.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.3                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.7                                            [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.2                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.6.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.11.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V4.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V4.0.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V3.4.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V3.4.0                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Development Toolchains and Compilers
 
@@ -561,47 +554,47 @@ Utilities
 
 Documentation
 
-  Name                                                        Version                                           License                                                                                                       Document
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  X-CUBE-BLE1 API Description                                 V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Documentation\X-CUBE-BLE1.chm)
-  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
-  BlueNRG-MS middleware for STM32Cube                         V5.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
+  Name                                                        Version                                           Document
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  X-CUBE-BLE1 API Description                                 V5.0.0                                            [CHM](Documentation\X-CUBE-BLE1.chm)
+  Getting Started with X-CUBE-BLE1 pack for STM32CubeMX       V5.0.0                                            [PDF](Documentation\STMicroelectronics.X-CUBE-BLE1_GettingStarted.pdf)
+  BlueNRG-MS middleware for STM32Cube                         V5.0.0                                            [CHM](Middlewares\ST\BlueNRG-MS\doc\BlueNRG-MS_UserManual.chm)
 
 Drivers
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  STM32F4xx CMSIS                                             V2.6.3                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
-  STM32F4xx HAL                                               V1.7.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
-  STM32L0xx CMSIS                                             V1.9.0                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
-  STM32L0xx HAL                                               V1.10.2                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
-  STM32L4xx CMSIS                                             V1.6.0                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
-  STM32L4xx HAL                                               V1.11.0                                           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
-  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)                                                  [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
-  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  STM32F4xx CMSIS                                             V2.6.3                                            [release notes](Drivers\CMSIS\Device\ST\STM32F4xx\Release_Notes.html)
+  STM32F4xx HAL                                               V1.7.7                                            [release notes](Drivers\STM32F4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32F4xx_Nucleo                                        V1.2.7                                            [release notes](Drivers\BSP\STM32F4xx-Nucleo\Release_Notes.html)
+  STM32L0xx CMSIS                                             V1.9.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L0xx\Release_Notes.html)
+  STM32L0xx HAL                                               V1.10.2                                           [release notes](Drivers\STM32L0xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L0xx_Nucleo                                        V2.1.2                                            [release notes](Drivers\BSP\STM32L0xx_Nucleo\Release_Notes.html)
+  STM32L4xx CMSIS                                             V1.6.0                                            [release notes](Drivers\CMSIS\Device\ST\STM32L4xx\Release_Notes.html)
+  STM32L4xx HAL                                               V1.11.0                                           [release notes](Drivers\STM32L4xx_HAL_Driver\Release_Notes.html)
+  BSP STM32L4xx_Nucleo                                        V2.1.6                                            [release notes](Drivers\BSP\STM32L4xx_Nucleo\Release_Notes.html)
+  BSP X-NUCLEO-IDB0xA1                                        V3.0.0                                            [release notes](Drivers\BSP\X-NUCLEO-IDB0xA1\Release_Notes.html)
 
 Middlewares
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  BlueNRG-MS                                                  V4.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
-  LowPowerManager                                             V1.0.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
-  TimerServer                                                 V1.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  BlueNRG-MS                                                  V4.0.0                                            [release notes](Middlewares\ST\BlueNRG-MS\Release_Notes.html)
+  LowPowerManager                                             V1.0.0                                            [release notes](Middlewares\ST\LowPowerManager\Release_Notes.html)
+  TimerServer                                                 V1.1.0                                            [release notes](Middlewares\ST\TimerServer\Release_Notes.html)
 
 Projects
   
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Projects                                                    V3.4.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [release notes](Projects\Release_Notes.html)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Projects                                                    V3.4.0                                            [release notes](Projects\Release_Notes.html)
 
 Utilities
 
-  Name                                                        Version                                           License                                                                                                       Release note
-  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Flash Updater Tool                                          V2.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
-  Profile Central Tool                                        V3.1.0                                            [SLA0077](https://www.st.com/content/st_com/en/search.html#q=SLA0077-t=resources-page=1)                      [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
+  Name                                                        Version                                           Release note
+  ----------------------------------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
+  Flash Updater Tool                                          V2.1.0                                            [readme](Utilities\PC_Software\FlashUpdaterTool\flashUpdater.readme)
+  Profile Central Tool                                        V3.1.0                                            [readme](Utilities\PC_Software\ProfileCentralTool\readme.txt)
 
 ## Development Toolchains and Compilers
 

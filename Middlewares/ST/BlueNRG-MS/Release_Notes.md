@@ -14,13 +14,6 @@ Copyright &copy; 2021 STMicroelectronics\
 [![ST logo](../../../_htmresc/st_logo_2020.png)](https://www.st.com){.logo}
 </center>
 
-# License
-
-This software package is
-licensed by ST under ST license SLA0077, the "License"; You may not use this component except in compliance
-with the License. You may obtain a copy of the License at:
-[http://www.st.com/SLA0077](http://www.st.com/SLA0077)
-
 # Purpose
 
 The <mark>BlueNRG-MS</mark> Library provides the high level API of the BLE library core through the Application Command Interface (ACI) and the Host Controller Interface (HCI) transport layer.
