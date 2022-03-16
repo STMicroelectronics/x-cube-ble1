@@ -1,5 +1,5 @@
 
-## <b>Profiles_DMA_LowPower Application Description</b>
+## Profiles_DMA_LowPower Application Description
 
 This sample application implements the BLE Peripheral Standard Profiles.
 
@@ -28,11 +28,11 @@ board and the smartphone has been established, the ST BLE Profile App will
 show the Heart Rate values in bpm (beats per minute) coming from the STM32 Nucleo
 board.
 
-### <b>Keywords</b>
+### Keywords
 
 BLE, Peripheral, Profiles, SPI, DMA, Low Power, BlueNRG-M0, BlueNRG-MS
 
-### <b>Directory contents</b>
+### Directory contents
 
  - *_profile_application.c Specific peripheral profile utilities
  
@@ -54,12 +54,11 @@ BLE, Peripheral, Profiles, SPI, DMA, Low Power, BlueNRG-M0, BlueNRG-MS
 
  - stm32**xx_it.c          Source code for interrupt Service Routines
  
- - system_stm32**xx.c      CMSIS Cortex-Mx Device Peripheral Access Layer
-                           System Source File
+ - system_stm32**xx.c      CMSIS Cortex-Mx Device Peripheral Access Layer System Source File
 						   
  - stm32xx_hal_app_rtc.c   Application specific HAL implementation (set the Wakeup clock source)
 
-### <b>Hardware and Software environment</b>
+### Hardware and Software environment
 
   - This example runs on STM32 Nucleo boards with X-NUCLEO-IDB05A2 STM32 expansion board
     (the X-NUCLEO-IDB05A1 expansion board can be also used)
@@ -70,7 +69,7 @@ BLE, Peripheral, Profiles, SPI, DMA, Low Power, BlueNRG-M0, BlueNRG-MS
 ADDITIONAL_BOARD : X-NUCLEO-IDB05A2 https://www.st.com/content/st_com/en/products/ecosystems/stm32-open-development-environment/stm32-nucleo-expansion-boards/stm32-ode-connect-hw/x-nucleo-idb05a2.html
 ADDITIONAL_COMP : BlueNRG-M0 https://www.st.com/content/st_com/en/products/wireless-connectivity/short-range/bluetooth-low-energy-network-co-processors/bluenrg-m0.html
     
-### <b>How to use it?</b>
+### How to use it?
 
 In order to make the program work, you must do the following:
  - WARNING: before opening the project with any toolchain be sure your folder
@@ -80,7 +79,7 @@ In order to make the program work, you must do the following:
    debug feature of your toolchain cannot be used.
    For using debugging you must disable the low power configuration
    (set macro LOW_POWER_MODE to 0 in $PATH_TO_THIS_APPLICATION\Inc\main.h).
- - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.7.0).
+ - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.8.0).
    Alternatively you can use the Keil uVision toolchain (this firmware
    has been successfully tested with V5.32.0) or the IAR toolchain (this firmware has 
    been successfully tested with Embedded Workbench V8.50.9).
@@ -89,13 +88,13 @@ In order to make the program work, you must do the following:
  - Alternatively, you can download the pre-built binaries in "Binary" 
    folder included in the distributed package. 
 
-### <b>Author</b>
+### Author
 
 SRA Application Team
 
-### <b>License</b>
+### License
 
-Copyright (c) 2021 STMicroelectronics.
+Copyright (c) 2022 STMicroelectronics.
 All rights reserved.
 
 This software is licensed under terms that can be found in the LICENSE file

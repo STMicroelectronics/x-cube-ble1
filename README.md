@@ -11,7 +11,7 @@ The X-CUBE-BLE1 is an expansion software package for STM32Cube. This software pr
 - Sample applications that the developer can use to start experimenting with the code.
 - References to free Android and iOS Apps that can be used along with the sample applications.
 - Free, user-friendly license terms.
-- Examples implementation available for X-NUCLEO-IDB05A2 STM32 expansion board plugged on top of one NUCLEO-F401RE, NUCLEO-L053R8 or NUCLEO-L476RG.
+- Examples implementation available for X-NUCLEO-IDB05A2 STM32 expansion board plugged on top of one NUCLEO-L476RG.
 
 The figure below shows the overall architecture.
 

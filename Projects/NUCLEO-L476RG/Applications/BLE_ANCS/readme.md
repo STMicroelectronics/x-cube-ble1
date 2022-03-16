@@ -1,5 +1,5 @@
 
-## <b>BLE_ANCS Application Description</b>
+## BLE_ANCS Application Description
 
 This application implements the Apple Notification Center Service (ANCS) showing how to
 configure the BlueNRG-MS/BlueNRG-M0 module as a Notification Consumer device.
@@ -19,11 +19,11 @@ When the setup phase is completed, the BlueNRG-MS/BlueNRG-M0 device is configure
 as a Notification Consumer and is able to receive every notification
 sent from the Notification Provider.
  
-## <b>Keywords</b>
+## Keywords
 
 BLE, Peripheral, ANCS, Profile, SPI, BlueNRG-M0, BlueNRG-MS
 
-### <b>Directory contents</b>
+### Directory contents
 
  - BLE_ANCS_main.c        Main program body
  
@@ -39,14 +39,13 @@ BLE, Peripheral, ANCS, Profile, SPI, BlueNRG-M0, BlueNRG-MS
 
  - stm32**xx_it.c         Source code for interrupt Service Routines
  
- - system_stm32**xx.c     CMSIS Cortex-Mx Device Peripheral Access Layer
-                          System Source File
+ - system_stm32**xx.c     CMSIS Cortex-Mx Device Peripheral Access Layer System Source File
 						  
  - uart_support.c         Generic functions for UART communication
  
  - user_timer.c           User timer management
 
-### <b>Hardware and Software environment</b>
+### Hardware and Software environment
 
   - This example runs on STM32 Nucleo boards with X-NUCLEO-IDB05A2 STM32 expansion board
     (the X-NUCLEO-IDB05A1 expansion board can be also used)
@@ -57,13 +56,13 @@ BLE, Peripheral, ANCS, Profile, SPI, BlueNRG-M0, BlueNRG-MS
 ADDITIONAL_BOARD : X-NUCLEO-IDB05A2 https://www.st.com/content/st_com/en/products/ecosystems/stm32-open-development-environment/stm32-nucleo-expansion-boards/stm32-ode-connect-hw/x-nucleo-idb05a2.html
 ADDITIONAL_COMP : BlueNRG-M0 https://www.st.com/content/st_com/en/products/wireless-connectivity/short-range/bluetooth-low-energy-network-co-processors/bluenrg-m0.html
 
-### <b>How to use it?</b>
+### How to use it?
 
 In order to make the program work, you must do the following:
  - WARNING: before opening the project with any toolchain be sure your folder
    installation path is not too in-depth since the toolchain may report errors
    after building.
- - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.7.0).
+ - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.8.0).
    Alternatively you can use the Keil uVision toolchain (this firmware
    has been successfully tested with V5.32.0) or the IAR toolchain (this firmware has 
    been successfully tested with Embedded Workbench V8.50.9).
@@ -72,13 +71,13 @@ In order to make the program work, you must do the following:
  - Alternatively, you can download the pre-built binaries in "Binary" 
    folder included in the distributed package.
 
-### <b>Author</b>
+### Author
 
 SRA Application Team
 
-### <b>License</b>
+### License
 
-Copyright (c) 2021 STMicroelectronics.
+Copyright (c) 2022 STMicroelectronics.
 All rights reserved.
 
 This software is licensed under terms that can be found in the LICENSE file
