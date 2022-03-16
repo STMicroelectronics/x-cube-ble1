@@ -236,7 +236,7 @@ tBleStatus Quat_Update(AxesRaw_t *data)
 
 /*******************************************************************************
 * Function Name  : Read_Request_CB.
-* Description    : Update the sensor valuse.
+* Description    : Update the sensor values.
 * Input          : Handle of the characteristic to update.
 * Return         : None.
 *******************************************************************************/

@@ -248,7 +248,7 @@ static void Init_RTC(void)
   /* Enable power module clock */
   __PWR_CLK_ENABLE();
   
-  /* Enable acces to the RTC registers */
+  /* Enable access to the RTC registers */
   HAL_PWR_EnableBkUpAccess();
   
   /**

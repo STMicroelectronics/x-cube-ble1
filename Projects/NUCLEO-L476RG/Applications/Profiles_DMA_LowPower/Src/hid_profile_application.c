@@ -278,9 +278,9 @@ void Init_Profile(void)
     0x09, 0x01,   /* Usage (Pointer) */
     0xA1, 0x00,   /* Collection (Physical) */
     0x05, 0x09,   /* Usage Page (Buttons) */
-    0x19, 0x01,   /* Usage Minimun (01) */
+    0x19, 0x01,   /* Usage Minimum (01) */
     0x29, 0x03,   /* Usage Maximum (03) */
-    0x15, 0x00,   /* logical Minimun (0) */
+    0x15, 0x00,   /* logical Minimum (0) */
     0x25, 0x01,   /* logical Maximum (1) */
     0x95, 0x03,   /* Report Count (3) */
     0x75, 0x01,   /* Report Size (1) */

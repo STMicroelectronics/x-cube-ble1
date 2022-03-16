@@ -71,7 +71,7 @@ static int FML_Application_Process(void);
 ******************************************************************************/
 
 /**
- * @brief  Initialize the Application Context for using the Fidn Me Locator
+ * @brief  Initialize the Application Context for using the Find Me Locator
  *         profile methods
  * @param  None
  * @retval None

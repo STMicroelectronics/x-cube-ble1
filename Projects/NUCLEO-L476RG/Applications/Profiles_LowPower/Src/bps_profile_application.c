@@ -320,10 +320,10 @@ static int BP_Application_Process(void)
       Update_Time((uint8_t)(UPDATE_INTERVAL/1000));  
       
 #if INTERMEDIATE_CUFF_PRESSURE
-      APPL_MESG_DBG(profiledbgfile,"Sending intermediate cuff pressure measurment\n");        
+      APPL_MESG_DBG(profiledbgfile,"Sending intermediate cuff pressure measurement\n");        
       BPS_Send_Intermediate_Cuff_Pressure(icpval);
 #else        
-      APPL_MESG_DBG(profiledbgfile,"Sending blood pressure measurment\n");
+      APPL_MESG_DBG(profiledbgfile,"Sending blood pressure measurement\n");
       BPS_Send_Blood_Pressure_Measurement(bpmval);
 #endif
       

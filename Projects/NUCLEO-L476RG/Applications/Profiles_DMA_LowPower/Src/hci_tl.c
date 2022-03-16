@@ -241,7 +241,7 @@ void hci_notify_asynch_evt(uint8_t *buffer, uint8_t event_payload_len)
   if(event_payload_len > 0){
     
     HCI_Input((tHciDataPacket*)buffer);
-    // Packet will be inserted to te correct queue by 
+    // Packet will be inserted to the correct queue 
   }
   else {
     // Insert the packet back into the pool.

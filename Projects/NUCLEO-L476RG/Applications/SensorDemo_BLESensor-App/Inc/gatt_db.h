@@ -33,7 +33,7 @@
 #define NUMBER_OF_APPLICATION_SERVICES (2)
 
 /**
- * @brief Define How Many quaterions you want to trasmit (from 1 to 3)
+ * @brief Define How Many quaterions you want to transmit (from 1 to 3)
  *        In this sample application use only 1
  */
 #define SEND_N_QUATERNIONS 1

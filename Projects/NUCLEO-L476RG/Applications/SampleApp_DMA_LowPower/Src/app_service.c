@@ -136,7 +136,7 @@ void Make_Connection(void)
     
     BSP_LED_On(LED2); //To indicate the start of the connection and discovery phase
 
-    // Intial value for connection interval 9
+    // Initial value for connection interval 9
     /*
     Scan_Interval, Scan_Window, Peer_Address_Type, Peer_Address, Own_Address_Type, Conn_Interval_Min, 
     Conn_Interval_Max, Conn_Latency, Supervision_Timeout, Conn_Len_Min, Conn_Len_Max    
