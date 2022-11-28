@@ -359,7 +359,7 @@ static void SPI1_MspDeInit(SPI_HandleTypeDef* spiHandle)
   * @brief  Convert the SPI baudrate into prescaler.
   * @param  clock_src_hz : SPI source clock in HZ.
   * @param  baudrate_mbps : SPI baud rate in mbps.
-  * @retval Prescaler dividor
+  * @retval Prescaler divisor
   */
 static uint32_t SPI_GetPrescaler( uint32_t clock_src_hz, uint32_t baudrate_mbps )
 {
