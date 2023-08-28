@@ -1,7 +1,8 @@
-﻿
+
 ## <b>Beacon Application Description</b>
 
 This example shows how to implement an Eddystone Beacon device.
+
 The communication is done using an STM32 Nucleo board, equipped with an ST's 
 BlueNRG-M0/BlueNRG-MS expansion board, and a Smartphone with BLE.
 
@@ -88,7 +89,7 @@ In order to make the program work, you must do the following:
    installation path is not too in-depth since the toolchain may report errors
    after building.
 
- - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.10.1).
+ - Open STM32CubeIDE (this firmware has been successfully tested with Version 1.13.0).
    Alternatively you can use the Keil uVision toolchain (this firmware
    has been successfully tested with V5.37.0) or the IAR toolchain (this firmware has 
    been successfully tested with Embedded Workbench V9.20.1).
@@ -106,7 +107,7 @@ SRA Application Team
 
 ### <b>License</b>
 
-Copyright (c) 2022 STMicroelectronics.
+Copyright (c) 2023 STMicroelectronics.
 All rights reserved.
 
 This software is licensed under terms that can be found in the LICENSE file

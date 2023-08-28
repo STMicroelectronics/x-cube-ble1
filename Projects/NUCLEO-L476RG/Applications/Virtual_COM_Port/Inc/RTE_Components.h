@@ -7,7 +7,7 @@
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2022 STMicroelectronics.
+  * Copyright (c) 2023 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -22,7 +22,7 @@
 #define  __RTE_COMPONENTS_H__
 
 /* Defines ------------------------------------------------------------------*/
-/* STMicroelectronics.X-CUBE-BLE1.6.2.4 */
+/* STMicroelectronics.X-CUBE-BLE1.7.0.0 */
 #define VIRTUAL_COM_PORT
 #define HCI_TL
 #define HCI_TL_INTERFACE

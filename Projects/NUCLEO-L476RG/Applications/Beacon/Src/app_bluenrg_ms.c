@@ -6,7 +6,7 @@
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2022 STMicroelectronics.
+  * Copyright (c) 2023 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -214,6 +214,19 @@ static void User_Process(void)
  */
 void EnterStopMode(void)
 {
-  __HAL_PWR_CLEAR_FLAG(PWR_FLAG_WU);
-  HAL_PWR_EnterSTOPMode(PWR_LOWPOWERREGULATOR_ON, PWR_STOPENTRY_WFI);
+  /**
+   * If needed, add in the following USER CODE section
+   * the code for entering a low power mode.
+   *
+   * Here an example (to be adapted according to the used
+   * STM32 family):
+   *
+   * __HAL_PWR_CLEAR_FLAG(PWR_FLAG_WU);
+   * HAL_PWR_EnterSTOPMode(PWR_LOWPOWERREGULATOR_ON, PWR_STOPENTRY_WFI);
+   *
+   */
+
+  /* USER CODE BEGIN EnterStopMode */
+
+  /* USER CODE END EnterStopMode */
 }
