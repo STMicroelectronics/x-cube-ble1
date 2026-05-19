@@ -28,8 +28,8 @@ run: $(TARGET)
 
 coverage: run
 	cd $(BUILD_DIR) && gcov \
-		$(ROOT)/Middlewares/ST/BlueNRG-MS/utils/ble_list.c \
-		$(ROOT)/Middlewares/ST/BlueNRG-MS/hci/controller/bluenrg_utils_small.c
+		./test_ble_modules-ble_list.gcno \
+		./test_ble_modules-bluenrg_utils_small.gcno
 
 clean:
 	rm -rf $(BUILD_DIR)
